@@ -11,6 +11,8 @@ Original: https://scienceexchange.caltech.edu/topics/quantum-science-explained/q
 Variation:
 - https://collegedunia.com/exams/quantum-mechanics-physics-articleid-1847
 - https://www.puttyputman.com/post/quantum-physics-and-the-supernatural
+- https://collegedunia.com/exams/quantum-mechanics-physics-articleid-1847
+- https://www.newscientist.com/definition/quantum-mechanics/
 
 ## Schrodinger's Box
 https://www.wired.com/story/a-puzzling-quantum-scenario-appears-to-violate-a-law-of-physics/
