@@ -22,3 +22,6 @@ https://www.google.com/imgres?q=quanta%20in%20physics&imgurl=http%3A%2F%2Fmedia.
 - https://superostmk.live/product_details/34939217.html
 - https://scitechdaily.com/tag/quantum-physics/
 - https://phys.org/news/2015-01-quantum-hard-breakthrough.html
+
+## Atom Orbitals
+https://theconversation.com/quantum-physics-experiment-shows-heisenberg-was-right-about-uncertainty-in-a-certain-sense-118456
