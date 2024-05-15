@@ -6,6 +6,8 @@
 ## Quanta Wave Packet Interference visualization
 from: https://www.google.com/search?q=quanta+in+physics
 
+Original: https://scienceexchange.caltech.edu/topics/quantum-science-explained/quantum-physics
+
 Variation:
 - https://collegedunia.com/exams/quantum-mechanics-physics-articleid-1847
 - https://www.puttyputman.com/post/quantum-physics-and-the-supernatural
